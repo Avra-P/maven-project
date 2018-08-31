@@ -13,7 +13,7 @@ public class Greeter {
   }
 
     /**
-     * Javadoc comment
+     *
      * @param someone theNameofAPerson
      * @return greeting string
      */
